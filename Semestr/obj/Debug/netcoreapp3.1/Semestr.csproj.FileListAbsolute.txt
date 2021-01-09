@@ -1,0 +1,13 @@
+D:\Visual Studio\Semestr\Semestr\bin\Debug\netcoreapp3.1\Semestr.exe
+D:\Visual Studio\Semestr\Semestr\bin\Debug\netcoreapp3.1\Semestr.deps.json
+D:\Visual Studio\Semestr\Semestr\bin\Debug\netcoreapp3.1\Semestr.runtimeconfig.json
+D:\Visual Studio\Semestr\Semestr\bin\Debug\netcoreapp3.1\Semestr.runtimeconfig.dev.json
+D:\Visual Studio\Semestr\Semestr\bin\Debug\netcoreapp3.1\Semestr.dll
+D:\Visual Studio\Semestr\Semestr\bin\Debug\netcoreapp3.1\Semestr.pdb
+D:\Visual Studio\Semestr\Semestr\obj\Debug\netcoreapp3.1\Semestr.csprojAssemblyReference.cache
+D:\Visual Studio\Semestr\Semestr\obj\Debug\netcoreapp3.1\Semestr.AssemblyInfoInputs.cache
+D:\Visual Studio\Semestr\Semestr\obj\Debug\netcoreapp3.1\Semestr.AssemblyInfo.cs
+D:\Visual Studio\Semestr\Semestr\obj\Debug\netcoreapp3.1\Semestr.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Semestr\Semestr\obj\Debug\netcoreapp3.1\Semestr.dll
+D:\Visual Studio\Semestr\Semestr\obj\Debug\netcoreapp3.1\Semestr.pdb
+D:\Visual Studio\Semestr\Semestr\obj\Debug\netcoreapp3.1\Semestr.genruntimeconfig.cache
